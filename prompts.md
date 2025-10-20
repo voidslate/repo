@@ -17,6 +17,4 @@ Generate pre-requisites for the course. Use H2 for the heading.
 Generate software requirements for the course. Use H2 for the heading.
 
 Generate outline, using H2 for the Outline heading, and clean up the following outline by keeping chapter indivudual headings as H3 markdown style and bullets under the chapters. remove chapter description, duration, summary, knowledge check and other unnecessary information. After the heading, add a new line.
-
-update H3 titles so they have Chapter {x} - as the prefix where x is the autonumber.
 ```
